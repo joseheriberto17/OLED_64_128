@@ -1,0 +1,7 @@
+/.vscode
+/build
+/i2c_scanner
+/wire_esclavo_envia
+/wire_esclavo_recibe_IT
+/wire_maestro_envia
+/wire_maestro_recibe
